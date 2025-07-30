@@ -3,7 +3,8 @@
 
 Welcome to the **Marvel Dashboard**, an interactive and visually rich Power BI report that uncovers deep insights into the **Marvel Cinematic Universe (MCU)**. This project visualizes movie performance, character trends, and revenue analysis using stunning Power BI visuals.
 
-![Marvel Dashboard Preview](https://user-images.githubusercontent.com/your-screenshot-link.png) <!-- Replace with actual image link if available -->
+![Marvel Dashboard Preview]![Screenshot (64)](https://github.com/mohammedpatel2024/marvel-dashboard-powerbi/assets/167425451/6e94dc9a-ac78-491c-97ef-70e6193e0f81)
+ <!-- Replace with actual image link if available -->
 
 ---
 
